@@ -1,0 +1,13 @@
+1. summary statistics & graph: variable table; mode; violin plot for continuous variable; calculate skewness and kurtosis; (Jade)
+
+categorical data to y: function day stacked histogram with season information; density plot of count for different seasons (Yahan)
+
+ train and test data set 20:80
+2. (a) function day; classification; (resample:smote); (lda;knn,rf,svm);hour not considered (Yahan)
+  
+   (b) fit with known distribution: poisson(2 parameters; lambda; link function); mixed effect model; B-spline: parameter tuning; 
+opimization algo(gradient-based; gridsearch; by hand) 
+   metric: MSE, adj R2; loglikelihood; aic; bic (Jade)
+
+   (c) ml method: variable important. PCA (Yahan) ; ramdom forest (Jade)(if available; do regularized rf); (neural network); (time 
+series)  
